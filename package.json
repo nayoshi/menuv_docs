@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/ThymonA/menuv_docs#readme",
   "devDependencies": {
-    "docma": "^3.2.2"
+    "docma": "^2.1.0"
   }
 }
