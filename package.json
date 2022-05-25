@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "node ./generate_docs.js",
-    "start": "node ./generate_docs.js && docma serve ./output/docs/"
+    "start": "node ./generate_docs.js && docma serve ./output/docs/ -p 21375"
   },
   "repository": {
     "type": "git",
